@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-👨🏻‍💻 About Me
+###👨🏻‍💻 About Me
 
 🎓 I'm an Software Engineering pre-final year student at RMIT University.
 

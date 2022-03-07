@@ -1,6 +1,6 @@
-## Hi Nice to meet you, I'm Anuj 👋
+## Hi Nice to meet you,  I'm Anuj 👋
 
-**👨🏻‍💻 About Me**
+### **👨🏻‍💻 About Me**
 
 🎓 I'm an Software Engineering pre-final year student at RMIT University.
 

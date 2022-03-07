@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Nice to meet you, I'm Anuj 👋
 
 **👨🏻‍💻 About Me**
 

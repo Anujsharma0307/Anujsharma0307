@@ -2,7 +2,7 @@
 
 ### **👨🏻‍💻 About Me**
 
-🎓 I'm an Software Engineering pre-final year student at RMIT University.
+🎓 I'm an Software Engineering pre-final year student at RMIT University. \n
 
 💡 Interested in working alongside like minded people enthusiastic about Web/App Security, Pentesting or Software Development technologies.
 
@@ -13,3 +13,6 @@
 💬 Feel free to reach out to me for some interesting discussion about advancements in technology.
 
 ✉️ You can reach out to me via email at anujsharma030701@gmail.com.
+ 
+### 🔗 Languages and Skills 
+

@@ -24,10 +24,6 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=Kali-Linux)&nbsp;
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=Wireshark)&nbsp;
-![nMap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nMap)&nbsp;
+![nMap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=Nmap)&nbsp;
 ![CTF](https://img.shields.io/badge/-CTF-05122A?style=flat&logo=CTF)&nbsp;
 
-
-Java Python Git GitHub kali Linux 
-Wireshark nmap Visual Studio Code CTF
-Photoshop Adobe XD 

@@ -16,3 +16,6 @@
  
 ### 🔗 Languages and Skills 
 
+Java Python Git GitHub kali Linux 
+Wireshark nmap Visual Studio Code CTF
+Photoshop Adobe XD 

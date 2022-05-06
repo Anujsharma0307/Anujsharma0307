@@ -35,3 +35,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anujsharma0307&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+### 🤝🏻 Want to Connect?
+<p align="center">
+<a href="https://www.linkedin.com/in/anujsharma3/">
+  <img align="left" alt="Anuj's LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
+</a>
+<a href="https://github.com/Anujsharma0307">
+  <img align="left" alt="Anuj's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
+</a>
+<a href="https://www.instagram.com/anuj.sharma_3/">
+  <img align="left" alt="Anuj's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
+</a>
+<a href="https://www.facebook.com/anujsharma307/">
+  <img align="left" alt="Anuj's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
+</a>

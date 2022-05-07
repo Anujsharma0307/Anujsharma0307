@@ -6,7 +6,7 @@
 
 💡 Interested in working alongside like minded people enthusiastic about Web/App Security, Pentesting or Software Development technologies.
 
-🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms,Application Security and System Design.
+🌱 I'm on track for enhancing my knowledge about Data Structures and Algorithms,Application Security and Cyber Security.
 
 ⚡ In my free time, I pursue my security certifications and Graphic Designing as side hustles.
 

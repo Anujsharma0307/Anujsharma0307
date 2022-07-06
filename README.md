@@ -39,7 +39,7 @@
 </p>
 
 ### 🤝🏻 Want to Connect?
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/anujsharma3/">
   <img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>

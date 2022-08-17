@@ -41,14 +41,14 @@
 ### 🤝🏻 Want to Connect?
 <!-- <p align="left"> -->
 <a href="https://www.linkedin.com/in/anujsharma3/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
+  <img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" />
 </a>
 <a href="https://github.com/Anujsharma0307">
   <img align="left" alt="GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
 <a href="https://www.instagram.com/anuj.sharma_3/">
-  <img align="left" alt="Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
+  <img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" />
 </a>
 <a href="https://www.facebook.com/anujsharma307/">
-  <img align="left" alt="Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
+  <img align="left" width="22px" src="https://image.flaticon.com/icons/png/512/1409/1409943.png" />
 </a>

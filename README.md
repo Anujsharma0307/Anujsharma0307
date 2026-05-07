@@ -1,32 +1,26 @@
 ## Hi, I'm Anuj 👋
 
-### **👨🏻‍💻 About Me**
+### About Me
 
-🛡️ Software Quality Engineer at **Motorola Solutions**, building automation and security infrastructure for mission-critical public safety software used by Australian policing agencies.
+- Software Quality Engineer at **Motorola Solutions**, building automation and security infrastructure for mission-critical public safety software used by Australian policing agencies.
+- I live at the intersection of **Quality Engineering, Automation, and Security**, re-engineering frameworks from manual validation into high-velocity BDD + CI/CD pipelines.
+- Bachelor of Software Engineering, **RMIT University** (2020 to 2024).
+- Past: Cyber Security Intern at ACM, published in [IEEE Xplore](https://ieeexplore.ieee.org/document/10116554) on spoofing-attack simulation and malware analysis.
+- Currently sharpening: advanced application security, CVE triage workflows, and shift-left automation strategies.
+- Happy to chat about test architecture, DevSecOps, CVE remediation, or AI-augmented QE (Copilot instruction sets are my thing).
+- Reach me at **anujsharma030701@gmail.com**.
 
-🧪 I live at the intersection of **Quality Engineering, Automation, and Security** — re-engineering frameworks from manual validation into high-velocity BDD + CI/CD pipelines.
+### What I've Shipped at Motorola Solutions
 
-🎓 Bachelor of Software Engineering, **RMIT University** (2020–2024).
+- Migrated the automation framework to **Reqnroll (.NET BDD)** + **Allure Reporting**, cutting test maintenance by **30%**.
+- Built a headless **C# Auth Application** for programmatic clean-state resets, saving **90%** manual setup time.
+- Triaged and patched **CVSS 9.9** vulnerabilities; remediated **7 critical iOS risks** via self-initiated audits.
+- **520+ production commits** driving framework overhauls and HeadSpin Cloud device-farm migration.
+- Built resilient **GitHub Actions** pipelines with SMTP/Slack observability for real-time app health.
+- Primary **QA Authority** for Australian Policing Agency releases.
+- Standardized **GitHub Copilot** adoption across the QE team with shared instruction sets.
 
-🔐 Past: Cyber Security Intern at ACM — published in [IEEE Xplore](https://ieeexplore.ieee.org/document/10116554) on spoofing-attack simulation and malware analysis.
-
-🧠 Currently sharpening: advanced application security, CVE triage workflows, and shift-left automation strategies.
-
-💬 Happy to chat about test architecture, DevSecOps, CVE remediation, or AI-augmented QE (Copilot instruction sets are my thing).
-
-✉️ Reach me at **anujsharma030701@gmail.com**.
-
-### 🏆 What I've Shipped at Motorola Solutions
-
-- ⚙️ Migrated the automation framework to **Reqnroll (.NET BDD)** + **Allure Reporting** — cut test maintenance by **30%**.
-- 🔑 Built a headless **C# Auth Application** for programmatic clean-state resets — **90%** less manual setup.
-- 🐛 Triaged and patched **CVSS 9.9** vulnerabilities; remediated **7 critical iOS risks** via self-initiated audits.
-- 🚀 **520+ production commits** driving framework overhauls and HeadSpin Cloud device-farm migration.
-- 📡 Built resilient **GitHub Actions** pipelines with SMTP/Slack observability for real-time app health.
-- 🛂 Primary **QA Authority** for Australian Policing Agency releases.
-- 🤖 Standardized **GitHub Copilot** adoption across the QE team with shared instruction sets.
-
-### 🔗 Languages & Skills
+### Languages & Skills
 
 **Test Automation**  
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=.net&logoColor=512BD4)&nbsp;
